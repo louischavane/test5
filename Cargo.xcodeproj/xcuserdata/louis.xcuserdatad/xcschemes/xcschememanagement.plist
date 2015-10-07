@@ -4,15 +4,55 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
+		<key>App.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>4</integer>
+		</dict>
 		<key>Cargo.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
 		</dict>
+		<key>CargoTest.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
 		<key>BF37DD581BC512450031876D</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>BF37DE661BC513E40031876D</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>BF37DE731BC5142A0031876D</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>BF37DEB01BC51FF90031876D</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>BF37DECB1BC540A80031876D</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>BF37DEE61BC540A80031876D</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>BF37DEF11BC540A80031876D</key>
 		<dict>
 			<key>primary</key>
 			<true/>
